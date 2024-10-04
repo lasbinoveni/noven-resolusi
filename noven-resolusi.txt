@@ -1,9 +1,14 @@
 Resolusi 3 bulan ke depan (Agustus, November, Desember)
 
-Agustus
+Oktober
 - Belajar HTML (Minggu Pertama).
 - Belajar CSS3 (Minggu Kedua).
 - Mendalami CSS3 (Minggu Ketiga).
 - Belajar Bootstrap (Minggu Keempat).
 - Membuat Portofolio diri menggunakan Bootstrap.
 
+November
+- Belajar dasar-dasar JavaScript.
+- Belajar javascript lanjutan.
+- Belajar React JS.
+- Membuat Portofolio menggunakan Javascript.
