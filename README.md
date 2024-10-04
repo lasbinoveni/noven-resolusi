@@ -1,2 +1,2 @@
 # noven-resolusi
-membuar resolusi 3 bulan kedepan, fokus di web development
+membuat resolusi 3 bulan kedepan, fokus di web development
