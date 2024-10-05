@@ -12,4 +12,7 @@ November
 - Belajar javascript lanjutan.
 - Belajar React JS.
 - Membuat Portofolio menggunakan Javascript.
-- mendalamai javascript
+- mendalamai javascript lebih lanjut.
+
+DESEMBER
+- Menjadi master front end development.
